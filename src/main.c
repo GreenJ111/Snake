@@ -1,5 +1,6 @@
 #include <SDL2\SDL.h>
 #include <stdio.h>
+#include "..\lib\funcs.h"
 
 #define WIDTH 900
 #define HEIGHT 600
